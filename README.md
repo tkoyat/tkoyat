@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+扫支付宝红包支持我一下
+
+Scan Alipay red envelope support me
+
+<img src="./alipay_red_envelope.jpg" alt="Alipay Red Packet" width="300">
+
 <!--
 **tkoyat/tkoyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
